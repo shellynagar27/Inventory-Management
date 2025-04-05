@@ -4,7 +4,7 @@ A Power BI project that analyzes key aspects of inventory operations, including 
 
 - [Live Dashboard]()
 - [Linkedin Post]()
-- [Detail about the project](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/fp20-analytics-april-2025)
+- [Detail about the challenge](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/fp20-analytics-april-2025)
 
 ---
 
