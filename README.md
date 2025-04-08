@@ -2,8 +2,8 @@
 
 A Power BI project that analyzes key aspects of inventory operations, including stock levels, supplier performance, restocking patterns, pricing insights, and warehouse utilization. The goal is to uncover actionable insights that can help optimize restocking strategies and improve overall supply chain efficiency.
 
-- [Live Dashboard]()
-- [Linkedin Post]()
+- [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDEzYThlMjItNmJiMC00ZWQ1LWE3YzQtYWNhNTZjNDZkNWMyIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+- [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:groupPost:12751070-7315424568930656257/)
 - [Detail about the challenge](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/fp20-analytics-april-2025)
 
 ---
