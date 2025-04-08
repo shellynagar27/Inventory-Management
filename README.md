@@ -63,13 +63,62 @@ The dataset includes fields related to product details, stock levels, suppliers,
 
 ## 🔍 Key Findings
 
-> *To be added...*
+- **Stock Analysis:**
+  - *Home & Garden* category has the highest stock quantity (~381K units), while *Electronics* has the lowest (~328K units).
+  - 262 products currently fall below their reorder point, indicating a need for timely restocking.
+
+- **Supplier Performance:**
+  - *Supplier SUP041* has the highest average lead time (~121 days), primarily for *Books* and *Toys* categories.
+  - The shortest lead time is from *Supplier SUP050* (~85 days), suggesting better restocking efficiency.
+
+- **Restocking Patterns:**
+  - Restocking spikes were observed in **Sep 2024**, **Oct 2023**, and **May 2025**, hinting at potential seasonal trends.
+  - Products marked "Out of Stock" have an average of **202 days** since last restock—indicating a critical delay.
+
+- **Cost & Turnover Analysis:**
+  - Top 5 most expensive products are priced above $999, spanning categories like *Books*, *Home & Garden*, *Office Supplies*, and *Electronics*.
+  - *Home & Garden* has the fastest stock turnover rate, while *Electronics* shows the slowest.
+
+- **Warehouse & Geography:**
+  - *Germany* stores the most products (~533 SKUs), with a concentration in *Sports & Toys*.
+  - Country-level stock patterns vary by product category, useful for regional logistics planning.
 
 ---
 
 ## 💡 Recommendations
 
-> *To be added...*
+- **Optimize Reordering Strategy:**  
+  Focus on replenishing products below reorder points to avoid lost sales and customer dissatisfaction.
+
+- **Review Supplier Contracts:**  
+  Reevaluate suppliers with long lead times (e.g., SUP041) and consider diversifying sources to reduce restock delays.
+
+- **Prepare for Seasonal Demand:**  
+  Leverage historical restocking data to forecast inventory needs during peak months and avoid stockouts.
+
+- **Monitor High-Cost SKUs:**  
+  Track high-value inventory closely to manage pricing, reduce holding costs, and align with customer demand.
+
+- **Improve Warehouse Efficiency:**  
+  Balance stock distribution across warehouses to avoid overstocking in specific regions and optimize logistics.
+
+---
+
+## 🚀 Business Impact & Dashboard Utility
+
+This Power BI dashboard serves as a dynamic decision-support tool for supply chain and operations teams by:
+
+- Providing **real-time visibility** into stock levels and reorder status
+- Helping identify **bottlenecks in restocking** by supplier or location
+- Offering insights into **seasonal trends** and **stock turnover rates**
+- Supporting **data-driven negotiations** with suppliers based on performance
+- Enhancing **warehouse planning** through geographic and category-based stock insights
+
+The dashboard can be used by:
+- **Inventory Managers** to ensure product availability and reduce stockouts
+- **Procurement Teams** to track supplier efficiency and improve sourcing strategies
+- **Logistics Teams** to optimize warehouse space and reduce excess inventory
+- **Business Leaders** to monitor KPIs and make strategic supply chain decisions
 
 ---
 
