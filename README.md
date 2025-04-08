@@ -1,4 +1,4 @@
-![Screenshot 2025-04-08 234538](https://github.com/user-attachments/assets/58db99be-9db5-4cca-a633-c8e7dac15a55)![Screenshot 2025-04-08 231518](https://github.com/user-attachments/assets/cbad86fd-afa5-446d-99d6-aca9315d47b6)# 📦 Inventory Management Analysis
+# 📦 Inventory Management Analysis
 
 A Power BI project that analyzes key aspects of inventory operations, including stock levels, supplier performance, restocking patterns, pricing insights, and warehouse utilization. The goal is to uncover actionable insights that can help optimize restocking strategies and improve overall supply chain efficiency.
 
